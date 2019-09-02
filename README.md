@@ -3,7 +3,9 @@
 
 A semana Omnistack é uma semana dedicada para preparar os desenvolvedores antes do bootcamp da https://rocketseat.com.br
 
-O projeto da semana OmniStack #8 foi desenvolver um clone do tinder para devs. Utilizando tecnologias como NodeJs, React e React Native + Frameworks (Yarn, Npm, Axios, Mongoose, Express, Cors, Socket.io, WebSocket). Foi utilizado banco de dados não relacional com uma instância online do MongoDB Atlas + MongoDB Compass e Insomnia como ferramenta de teste de API.
+O projeto da semana OmniStack #8 foi desenvolver um clone do tinder para devs. 
+
+Utilizando tecnologias como NodeJs, React e React Native + Frameworks (Yarn, Npm, Axios, Mongoose, Express, Cors, Socket.io, WebSocket). Foi utilizado banco de dados não relacional com uma instância online do MongoDB Atlas + MongoDB Compass e Insomnia como ferramenta de teste de API.
 
 # Estrutura
 
