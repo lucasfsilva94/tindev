@@ -1,4 +1,5 @@
-# tindev
+![](https://user-images.githubusercontent.com/22107794/64090056-9b9dc880-cd1f-11e9-9c3d-8b47f17047c5.png)
+--
 
 A semana Omnistack é uma semana dedicada para preparar os desenvolvedores antes do bootcamp da https://rocketseat.com.br
 
